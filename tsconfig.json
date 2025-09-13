@@ -1,4 +1,8 @@
 {
+    "ts-node": {
+        "files": true
+    },
+    "include": ["src", "src/types", "types"],
     // Visit https://aka.ms/tsconfig to read more about this file
     "compilerOptions": {
         "rootDir": "./src",
